@@ -1,4 +1,4 @@
-### template-2
+# template-2
 
 # [livepreview](https://seifakmal.github.io/template-3.github.io/)
 
